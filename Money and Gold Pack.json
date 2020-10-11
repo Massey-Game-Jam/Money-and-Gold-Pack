@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Money and Gold Pack",
+      "message": {
+        "embeds": [
+          {
+            "title": "Money and Gold Pack | 3D Props | Unity Asset Store",
+            "description": "__**Money and Gold is a model/material asset pack that contains:**__\n- 5 Seamless Materials\n- 48 Textures in total\n- 11 Prefabs\n- Texture Resolution: 4096 by 4096\n- Texture Format: TGA\n- Texture Type: Seamless\n\n__**Project Benefits**__\n- Great for a cop and robbers game!\n- 4 Different Gold Bars, with LODs, 2 versions\n- Double-sided bills, 2 versions\n- Single-sided bills, 2 versions\n- New,Used, and old Money Stacks\n- Old and new money designs\n- 4 Money Piles\n- Money Box\n- Money Wraps, 3 versions",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/tools/gui/modular-bars-179746"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-11T14:21:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d27429f8-a0a4-4774-946f-0bcef6abfc87.jpg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
